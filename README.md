@@ -130,16 +130,3 @@ Both models perform similarly for short-term forecasting on this dataset.
 * Multivariate inputs (weather, holidays, events)
 * Hyperparameter tuning
 * GPU acceleration
-
----
-
-## 👨‍💻 Author
-
-**Ravindra K**
-Aspiring Machine Learning / AI Engineer
-
----
-
-## ⭐ If you find this useful
-
-Give the repository a ⭐ on GitHub and feel free to fork or contribute!
